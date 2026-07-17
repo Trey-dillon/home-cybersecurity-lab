@@ -1,27 +1,35 @@
 # 🖥️ Home Cybersecurity Lab
 
-## Overview
+![Cybersecurity](https://img.shields.io/badge/Focus-Blue%20Team%20Security-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Administration-orange?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-Administration-blue?style=for-the-badge&logo=windows)
 
-This repository documents my personal cybersecurity home lab environment used for practicing system administration, networking, security tools, and defensive cybersecurity concepts.
+---
 
-The goal of this lab is to gain hands-on experience with technologies commonly used in IT and Security Operations Center (SOC) environments.
+## 📌 Overview
+
+This repository documents my personal cybersecurity home lab environment used to develop hands-on experience with system administration, networking, and defensive security concepts.
+
+The lab was built to simulate real-world IT and Security Operations Center (SOC) environments by working with Windows and Linux systems, networking configurations, and security tools.
 
 ---
 
 # 🏗️ Lab Environment
 
-## Virtualization
+## Virtualization Platforms
 
 - VirtualBox
 - VMware
 
 ## Operating Systems
 
-### Windows
+### Windows Systems
+
 - Windows 10/11
 - Windows Server
 
-### Linux
+### Linux Systems
+
 - Ubuntu
 - Debian
 
@@ -29,86 +37,123 @@ The goal of this lab is to gain hands-on experience with technologies commonly u
 
 # 🔧 Skills Practiced
 
-## System Administration
+## 🖥️ System Administration
 
-- User account management
-- Permissions
-- Software installation
-- System updates
-- Troubleshooting
+- Installing and configuring operating systems
+- Managing users and permissions
+- Software installation and updates
+- Troubleshooting system issues
+- Command-line administration
 
-## Networking
+---
 
+## 🌐 Networking
+
+Hands-on practice with:
+
+- TCP/IP
 - IP addressing
-- DNS configuration
-- DHCP concepts
+- DNS
+- DHCP
 - Network troubleshooting
 - Connectivity testing
 
-## Security
+Tools used:
+
+- `ping`
+- `ipconfig`
+- `ip addr`
+- `traceroute`
+- `nslookup`
+- `netstat`
+
+---
+
+## 🔐 Security Practices
+
+Security concepts practiced:
 
 - Firewall configuration
-- Vulnerability scanning
-- Network monitoring
-- Security hardening
+- Network scanning
+- Traffic analysis
+- System hardening
+- Access control
+- Vulnerability identification
+
+Tools:
+
+- Nmap
+- Wireshark
+- Linux firewall tools
 
 ---
 
-# 🛠️ Tools Used
+# 🧪 Lab Projects
 
-| Tool | Purpose |
-|---|---|
-| Wireshark | Packet analysis |
-| Nmap | Network scanning |
-| Linux CLI | System administration |
-| Active Directory | Identity management |
-| VirtualBox | Virtual machines |
+## Active Directory Lab
 
----
+Planned environment:
 
-# 📚 Lab Projects
-
-## Active Directory Environment
-
-Planned implementation:
-
-- Domain Controller setup
-- User/group management
+- Windows Server Domain Controller
+- User and group management
 - Organizational Units
-- Group Policy configuration
+- Group Policy Objects (GPO)
+- Authentication testing
 
+---
 
-## Linux Administration
+## Linux Administration Lab
 
-Practice includes:
+Tasks completed:
 
 - User management
 - File permissions
-- Networking commands
-- Firewall rules
+- Network configuration
+- Service management
+- Firewall configuration
 
+---
 
 ## Network Security Testing
 
-Activities include:
+Activities:
 
-- Host discovery
+- Network discovery
 - Port scanning
-- Traffic analysis
+- Service enumeration
+- Packet capture analysis
 
 ---
 
 # 📸 Screenshots
 
-Screenshots of lab configurations and testing results will be added here.
+Screenshots of:
+
+- Virtual machines
+- Network configurations
+- Security tools
+- Lab exercises
+
+will be added as the lab expands.
 
 ---
 
 # 🎯 Skills Demonstrated
 
-✔ Windows Administration  
-✔ Linux Administration  
-✔ Networking Fundamentals  
-✔ Cybersecurity Fundamentals  
-✔ Troubleshooting  
-✔ Documentation
+✅ Windows Administration  
+✅ Linux Administration  
+✅ Networking Fundamentals  
+✅ Security Fundamentals  
+✅ Troubleshooting  
+✅ Documentation  
+✅ Virtualization  
+
+---
+
+# 📈 Future Improvements
+
+- Add SIEM platform (Splunk/ELK)
+- Add Windows event log monitoring
+- Configure Active Directory attacks and defenses
+- Add vulnerability scanning
+- Document incident response scenarios
