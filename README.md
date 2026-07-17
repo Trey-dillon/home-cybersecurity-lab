@@ -32,6 +32,7 @@ The lab was built to simulate real-world IT and Security Operations Center (SOC)
 
 - Ubuntu
 - Debian
+- Kali
 
 ---
 
