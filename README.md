@@ -106,7 +106,8 @@ Tasks completed:
 ![Virtual Machines](screenshots/Home%20Lab%201%20Vms.png)
 
 VirtualBox Manager displaying the virtual machines used in my home cybersecurity lab, including Windows and Linux systems configured for hands-on administration and security exercises.
-will be added as the lab expands.
+
+More screenshots will be added as the lab expands.
 
 ---
 
