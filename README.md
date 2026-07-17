@@ -14,7 +14,7 @@ The lab was built to simulate real-world IT and Security Operations Center (SOC)
 
 ---
 
-# 🏗️ Lab Environment
+# Lab Environment
 
 ## Virtualization Platforms
 
@@ -36,9 +36,9 @@ The lab was built to simulate real-world IT and Security Operations Center (SOC)
 
 ---
 
-# 🔧 Skills Practiced
+# Skills Practiced
 
-## 🖥️ System Administration
+## System Administration
 
 - Installing and configuring operating systems
 - Managing users and permissions
@@ -48,7 +48,7 @@ The lab was built to simulate real-world IT and Security Operations Center (SOC)
 
 ---
 
-## 🌐 Networking
+## Networking
 
 Hands-on practice with:
 
@@ -70,7 +70,7 @@ Tools used:
 
 ---
 
-## 🔐 Security Practices
+## Security Practices
 
 Security concepts practiced:
 
@@ -89,20 +89,6 @@ Tools:
 
 ---
 
-# 🧪 Lab Projects
-
-## Active Directory Lab
-
-Planned environment:
-
-- Windows Server Domain Controller
-- User and group management
-- Organizational Units
-- Group Policy Objects (GPO)
-- Authentication testing
-
----
-
 ## Linux Administration Lab
 
 Tasks completed:
@@ -115,18 +101,7 @@ Tasks completed:
 
 ---
 
-## Network Security Testing
-
-Activities:
-
-- Network discovery
-- Port scanning
-- Service enumeration
-- Packet capture analysis
-
----
-
-# 📸 Screenshots
+# Screenshots
 
 Screenshots of:
 
@@ -139,19 +114,7 @@ will be added as the lab expands.
 
 ---
 
-# 🎯 Skills Demonstrated
-
-✅ Windows Administration  
-✅ Linux Administration  
-✅ Networking Fundamentals  
-✅ Security Fundamentals  
-✅ Troubleshooting  
-✅ Documentation  
-✅ Virtualization  
-
----
-
-# 📈 Future Improvements
+# Future Improvements
 
 - Add SIEM platform (Splunk/ELK)
 - Add Windows event log monitoring
